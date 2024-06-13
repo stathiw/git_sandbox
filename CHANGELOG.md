@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+
+## [v1.1.0] - 2024-06-13
+
 ## 2024-06-13
 ### Added
 - Implement exponent function in Code class
@@ -14,6 +17,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - Add Code python implementation
 - (At the time the author forgot to handle non-float values, so the code is not working as expected)
+
+## [v1.0.0] - 2024-06-13
 
 ## 2024-06-13
 ### Added
