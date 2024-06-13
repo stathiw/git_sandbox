@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## 2024-06-13
 ### Added
+- Implement exponent function in Code class
+- (Still have not noticed the bug introduced in the previous commit)
+
+## 2024-06-13
+### Added
 - Add Code python implementation
 - (At the time the author forgot to handle non-float values, so the code is not working as expected)
 
