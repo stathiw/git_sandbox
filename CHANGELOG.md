@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## 2024-06-13
+### Changed
+- Changed name of Code class to Calculator to better reflect its purpose
+
 ## [v1.1.1] - 2024-06-13
 ### Fixed
 - Fix divide function implementation to calculate division as float
