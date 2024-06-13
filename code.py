@@ -16,6 +16,9 @@ class Code:
     def divide(self, x, y):
         return x / y
 
+    def exponent(self, x, y):
+        return x ** y
+
 
 if __name__ == '__main__':
     print("Hello World")
@@ -26,3 +29,4 @@ if __name__ == '__main__':
     print(code.subtract(1, 2))  # Output: -1
     print(code.multiply(1, 2))  # Output: 2
     print(code.divide(1, 2))    # Output: 0.5 (the current implementation is not correct)
+    print(code.exponent(2, 3))  # Output: 8
