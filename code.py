@@ -14,7 +14,7 @@ class Code:
         return x * y
 
     def divide(self, x, y):
-        return x / y
+        return float(x) / y
 
     def exponent(self, x, y):
         return x ** y
