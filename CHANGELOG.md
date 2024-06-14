@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 
+## [v1.2.0] - 2024-06-14
+
 ## 2024-06-13
 ### Changed
 - Changed name of Code class to Calculator to better reflect its purpose
